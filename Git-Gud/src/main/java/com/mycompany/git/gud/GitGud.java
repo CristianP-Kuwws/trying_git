@@ -11,6 +11,6 @@ package com.mycompany.git.gud;
 public class GitGud {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Sukii shoots a dog in the face!");
     }
 }
