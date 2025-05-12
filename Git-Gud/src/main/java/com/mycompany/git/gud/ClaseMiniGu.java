@@ -49,6 +49,11 @@ public class ClaseMiniGu {
         System.out.println("SUKII ! !");
     }
     
+    public void PushingDaisies() {
+        System.out.println("a final act of kindness");
+
+    }
     
+    //You learned something, right?
     
 }
