@@ -49,6 +49,11 @@ public class ClaseMiniGu {
         System.out.println("SUKII ! !");
     }
     
+    //This is comment should appear in git...
+    public void KillingMov() {
+        System.out.println("Sukii rips your face off.");
+    }
+    
     
     
 }
