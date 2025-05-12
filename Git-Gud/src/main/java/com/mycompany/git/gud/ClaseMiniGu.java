@@ -53,6 +53,11 @@ public class ClaseMiniGu {
         System.out.println("a final act of kindness");
 
     }
+    //This is comment should appear in git...
+    public void KillingMov() {
+        System.out.println("Sukii rips your face off.");
+    }
+    
     
     //You learned something, right?
     
