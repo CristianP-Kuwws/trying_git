@@ -52,4 +52,7 @@ public abstract class Character {
    
     public abstract void Check(); //Used to check character stats, and give a description of the character
     
+    public void Fight() {
+        System.out.println(name + "puts up a fight!");
+    } 
 }
