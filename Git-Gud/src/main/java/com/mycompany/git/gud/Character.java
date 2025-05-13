@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.git.gud;
 
 /**
@@ -29,5 +25,31 @@ public abstract class Character {
     public void setName(String name) {
         this.name = name;
     }
+    
+    public double getHP() {
+        return hp;
+    }
+    
+    public void setHp(double hp) {
+        this.hp = hp;
+    }
+    
+    public double getAtk() {
+        return atk;
+    }
+    
+    public void setAtk(double atk) {
+        this.atk = atk;
+    }
+    
+    public double getSp() {
+        return sp;
+    }
+    
+    public void setSp(double sp) {
+        this.sp = sp;
+    }
+   
+    public abstract void Check(); //Used to check character stats, and give a description of the character
     
 }
