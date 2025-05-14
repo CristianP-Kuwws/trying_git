@@ -55,4 +55,8 @@ public abstract class Character {
     public void Fight() {
         System.out.println(name + "puts up a fight!");
     } 
+    
+    public void TearApart() {
+        System.out.println(name + "tears you apart!");
+    } 
 }
